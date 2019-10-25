@@ -5,4 +5,5 @@ echo "build"
 echo "PARAMS to follow"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo $NUMBER
+echo "the-end"
 echo "end"

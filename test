@@ -6,5 +6,6 @@ echo "PARAMS to follow"
 NUMBER=$(($NUMBERONE + $NUMBERTWO + $NUMBERTWO))
 echo $NUMBER
 echo "the-end"
+echo "the-end"
 echo "lets see"
 echo "end"
